@@ -3,6 +3,9 @@
 ## Overview
 This project is a simple ToDo list application built using React. It allows users to add, delete, and mark tasks as completed. The project is intended for use in a portfolio to showcase React development skills.
 
+## Screenshot
+<img width="562" alt="Снимок экрана 2024-01-17 в 17 34 28" src="https://github.com/mikitavydrankou/To-Do-app/assets/115146055/b46ae320-e455-4484-9bb5-d11e381d7900">
+
 ## Features
 - Add tasks to the ToDo list.
 - Mark tasks as completed or incomplete.
